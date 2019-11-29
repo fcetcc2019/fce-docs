@@ -1,27 +1,22 @@
+[<< Voltar](README.md)
+
 # Representação da Arquitetura
 
 ## Modelo de Arquitetura
 
-O modelo de arquitetura adotado foi XXX \(MVC, MVP, MVVM, ...\)
+O FCE funciona com base na arquitetura cliente-servidor:
 
-Explicar a lógica entre as camadas
+![Arquitetura](imagens/FCE_Arch.png)
 
-* A
-* B
-* C
-* D
+O sistema fica hospedado no serviço do Heroku, onde ocorre a integração com serviço ClearDB (Banco de Dados MySQL). A empresa acessa o FCE externamente, tanto pelo acesso direto no browser (para a criação das enquetes) quanto para a incorporação das mesmas no seu site.
 
-![Arquitetura da Solu&#xE7;&#xE3;o](.gitbook/assets/image.png)
+## Modelo de Dados
 
-Explicar  as abstrações das camadas \(ou seja, cada camada e "explodir"\)
+A seguir o modelo ER onde é apresentada estrutura dos dados utilizados pelo sistema:
 
-![](.gitbook/assets/image%20%281%29.png)
+![Modelo ER](imagens/FCE_model.png)
 
-## Visão Lógica
+Na tabela "contato_demaiscampos" são armazenados os valores de campos extras utilizados na enquete (CPF, Sexo, Data de Nascimento).
 
-### Diagrama de Classes
-
-### Banco de Dados
-
-###  
+Na tabela "respostacliente" são armazenadas as respostas a enquetes com campo aberto ("Outros").
 
