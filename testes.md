@@ -2,7 +2,7 @@
 
 # Testes e Validação
 
-A validação do sistema foi realizada com [PESSOA], que, seguindo um roteiro pré-definido de atividades, utilizou o sistema e registrou suas impressões, detalhando o que, em sua opinião, havia de positivo e negativo no sistema.
+A validação do sistema foi realizada com uma funcionária de uma rede de restaurantes, integrante da equipe de controle de insumos e relacionamento com fornecedores, que, seguindo um roteiro pré-definido de atividades, utilizou o sistema e registrou suas impressões.
 
 O roteiro utilizado foi o seguinte:
 
@@ -24,7 +24,10 @@ O roteiro utilizado foi o seguinte:
 
 O feedback obtido com a realização da atividade é relacionado a seguir:
 
-1.
-2.
-3.
-...
+> Ferramenta de fácil entendimento,ágil e rápida. Atende o objetivo proposto.
+> 
+> Sugestão: Pesquisa de satisfação do cliente, clima organizacional e outras.
+
+O comentário acima resume o objetivo do FCE: prover algo simples de utilizar, mas que transmita uma informação contundente e com real valor para o negócio.
+
+Como melhoria futura, podem ser refinados ainda mais os tipos existentes de enquetes, de maneira a possibilitar pesquisas mais incisivas, não só com o cliente externo, mas com os próprios colaboradores da empresa.
