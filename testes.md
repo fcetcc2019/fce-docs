@@ -6,7 +6,7 @@ A validação do sistema foi realizada com uma funcionária de uma rede de resta
 
 O roteiro utilizado foi o seguinte:
 
-1. Realizar Login utilizando um conjunto usuário/senha pre-definidos;
+1. Realizar Login utilizando um conjunto usuário/senha pre-definidos **(Login: empresa / Senha: 123456)**;
 2. Criar uma enquete, marcando a caixa de seleção "1 resposta";
 3. Visualizar a enquete criada (clicar na pergunta) e verificar se ela está marcada como "ativa";
 4. Criar uma enquete marcando a caixa de seleção "Várias respostas";
